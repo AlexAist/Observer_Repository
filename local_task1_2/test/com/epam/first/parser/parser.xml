@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ParserTest">
+    <test name="Parser test">
+        <packages>
+            <package name="com.epam.first.parser"/>
+        </packages>
+    </test>
+</suite>

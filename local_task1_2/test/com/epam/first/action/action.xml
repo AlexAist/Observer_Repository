@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ActionTest">
+    <test name="Action test">
+        <packages>
+            <package name="com.epam.first.action"/>
+        </packages>
+    </test>
+</suite>

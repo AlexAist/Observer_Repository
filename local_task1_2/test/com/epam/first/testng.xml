@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+    <suite-files>
+        <suite-file path="query/query.xml"/>
+        <suite-file path="action/action.xml"/>
+        <suite-file path="factory/factory.xml"/>
+        <suite-file path="parser/parser.xml"/>
+        <suite-file path="reader/reader.xml"/>
+        <suite-file path="repository/repository.xml"/>
+        <suite-file path="sort/sort.xml"/>
+        <suite-file path="validator/validator.xml"/>
+        <suite-file path="warehouse/warehouse.xml"/>
+    </suite-files>
+</suite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="WarehouseTest">
+    <test name="Warehouse test">
+        <packages>
+            <package name="com.epam.first.warehouse"/>
+        </packages>
+    </test>
+</suite>

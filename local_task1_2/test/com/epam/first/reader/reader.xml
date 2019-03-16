@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ReaderTest">
+    <test name="Reader test">
+        <packages>
+            <package name="com.epam.first.reader"/>
+        </packages>
+    </test>
+</suite>
